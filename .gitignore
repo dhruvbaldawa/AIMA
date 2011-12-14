@@ -1,0 +1,12 @@
+# Copy .gitignore in each and every directory of the project
+
+# Exclude PyDev project files
+.project
+.pydevproject
+
+# Exclude pyc and pyo files
+*.py[co]
+
+# Exclude gedit temporary files
+*~
+
