@@ -1,0 +1,2 @@
+AIMA stands for Artificial Intelligence:A Modern Approach, a book on Artificial Intelligence written by Stuart Russell and Peter Norvig.
+This project is basically about solving the exercises and implementing the concepts in the book. We aim to create a good documentation and make the project pluggable, so that concepts implemented can be used in real-world applications.
